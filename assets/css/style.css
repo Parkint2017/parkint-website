@@ -22,7 +22,8 @@
   --font:"Pretendard","Noto Sans KR",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;color-scheme:light}
+body{color-scheme:light}
 body{
   margin:0;font-family:var(--font);color:var(--ink);background:var(--bg);
   line-height:1.65;font-size:16px;-webkit-font-smoothing:antialiased;
